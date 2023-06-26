@@ -6,15 +6,13 @@ an unsecured network.</p>
 
 # Project Team Members :
 <ul>
-<li><b>Awanit Ranjan (181CO161) </b></li>
-<li><b>Rutwik Mulay (181CO144)</b></li>
-<li><b>Kshitij Raj (181CO129) </b></li>
+<li><b>Deepak kumar </b></li>
+
 </ul>
 
 <br>
 
 
-Feel Free to head to this Youtube Video  for demo of the project : https://youtu.be/N4Kap2nE2Pc 
 
 # METHODOLOGY : 
 <div>
